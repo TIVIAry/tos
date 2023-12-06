@@ -67,22 +67,25 @@ nav ul li a:hover {
 
 h1 {
     color: white;
-    margin: 20px 0px 20px;
+    margin: 20px;
     font-size: 60px;
 }
 
 h3{
     color: white;
     font-size: 25px;
-    margin-bottom: 10px;
+    margin: 20px;
 }
 
 h4 {
     color: white;
     font-size: 20px;
-    margin-bottom: 50px;
+    margin: 20px;
 }
 
+.member {
+    padding: 20px;
+ 
 .member .btn {
     color: blue;
     background-color: white;
