@@ -1,2 +1,2 @@
-# tosc
-Tivia Open Space Conference landing page
+# TOS
+Tivia Open Space -tapahtuman sivu
